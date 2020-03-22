@@ -32,6 +32,8 @@
 #include <cmath>
 #include <algorithm>
 #include <fstream>
+#include <memory>
+#include <cstring>
 
 double getCosTheta(const double &g) // sampling the H-G scattering phase function
 {

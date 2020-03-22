@@ -33,6 +33,8 @@
 #include <cstdio>
 #include <cmath>
 #include <signal.h>
+#include <memory>
+#include <cstring>
 
 const float colorMatchingFunc[3][72] =
 {
